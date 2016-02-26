@@ -22,3 +22,6 @@
 [submodule "vim-atom-dark"]
 	path = vim-atom-dark
 	url = https://github.com/gosukiwi/vim-atom-dark.git
+[submodule "vim-material-theme"]
+	path = vim-material-theme
+	url = https://github.com/jdkanani/vim-material-theme.git
